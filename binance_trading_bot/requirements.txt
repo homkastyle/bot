@@ -1,0 +1,31 @@
+# Binance API и WebSocket
+python-binance==1.0.16
+
+# Машинное обучение
+scikit-learn==1.0.2
+
+# Оптимизация с использованием генетических алгоритмов
+deap==1.3.1
+
+# WebSocket для реального времени
+websocket-client==1.3.2
+
+# Работа с PDF
+fpdf==1.7.2
+
+# Обработка запросов к внешним API (для новостей и Telegram)
+requests==2.28.1
+
+# Логирование и уведомления
+smtplib==0.0.1
+
+# Обработка времени
+pytz==2022.1
+
+# Графики и визуализация данных
+matplotlib==3.5.2
+
+# JSON и CSV для работы с файлами
+pandas==1.4.3
+python-binance-websocket==1.0.16
+python-binance==1.0.16
